@@ -12,14 +12,14 @@ All three products below are **white-label**: branding, tenants, cloud accounts 
 
 | Project | What it solves | |
 |---|---|---|
-| **[Ananim NOC](https://github.com/gsouzacloud/ananim-noc-portfolio)** | Operations portal: availability with expected schedules, event correlation and probable root cause, AD users and RDP sessions, SAP/HANA health, EDR, cloud audit, RDP brute-force protection, VPN, backups, client portal with MFA. | [Case study →](https://github.com/gsouzacloud/ananim-noc-portfolio) |
-| **[AnanimCloudReport](https://github.com/gsouzacloud/ananim-cloud-report-portfolio)** | Cloud FinOps & governance: cost per account/project, idle waste and savings, quotas, backup vaults, licensing/EOL, AI cost assistant, monthly snapshots and branded reports. | [Case study →](https://github.com/gsouzacloud/ananim-cloud-report-portfolio) |
-| **[Ananim Shield](https://github.com/gsouzacloud/ananim-application-shield-portfolio)** | WAF & application security: OWASP CRS policies, geo/IP rules, scoped exceptions, versioned publishing with rollback, redacted events, alerts and audit. | [Case study →](https://github.com/gsouzacloud/ananim-application-shield-portfolio) |
+| **[NOC Operation Center](https://github.com/gsouzacloud/noc-operation-center-portfolio)** | Operations portal: availability with expected schedules, event correlation and probable root cause, AD users and RDP sessions, SAP/HANA health, EDR, cloud audit, RDP brute-force protection, VPN, backups, client portal with MFA. | [Case study →](https://github.com/gsouzacloud/noc-operation-center-portfolio) |
+| **[Cloud Report](https://github.com/gsouzacloud/cloud-report-portfolio)** | Cloud FinOps & governance: cost per account/project, idle waste and savings, quotas, backup vaults, licensing/EOL, AI cost assistant, monthly snapshots and branded reports. | [Case study →](https://github.com/gsouzacloud/cloud-report-portfolio) |
+| **[Shield](https://github.com/gsouzacloud/shield-portfolio)** | WAF & application security: OWASP CRS policies, geo/IP rules, scoped exceptions, versioned publishing with rollback, redacted events, alerts and audit. | [Case study →](https://github.com/gsouzacloud/shield-portfolio) |
 
 <table><tr>
-<td width="33%"><a href="https://github.com/gsouzacloud/ananim-noc-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/ananim-noc-portfolio/main/overview.png" alt="Ananim NOC"></a><br><sub>Ananim NOC</sub></td>
-<td width="33%"><a href="https://github.com/gsouzacloud/ananim-cloud-report-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/ananim-cloud-report-portfolio/main/overview.png" alt="AnanimCloudReport"></a><br><sub>AnanimCloudReport</sub></td>
-<td width="33%"><a href="https://github.com/gsouzacloud/ananim-application-shield-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/ananim-application-shield-portfolio/main/overview.png" alt="Ananim Shield"></a><br><sub>Ananim Shield</sub></td>
+<td width="33%"><a href="https://github.com/gsouzacloud/noc-operation-center-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/noc-operation-center-portfolio/main/overview.png" alt="NOC Operation Center"></a><br><sub>NOC Operation Center</sub></td>
+<td width="33%"><a href="https://github.com/gsouzacloud/cloud-report-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/cloud-report-portfolio/main/overview.png" alt="Cloud Report"></a><br><sub>Cloud Report</sub></td>
+<td width="33%"><a href="https://github.com/gsouzacloud/shield-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/shield-portfolio/main/overview.png" alt="Shield"></a><br><sub>Shield</sub></td>
 </tr></table>
 
 Screenshots are real production interfaces with client names, hosts, IPs, users and values anonymized. Operational source code, credentials and client data are kept private.
@@ -34,9 +34,9 @@ Os três produtos abaixo são **white-label**: marca, clientes, contas cloud e i
 
 | Projeto | O que resolve | |
 |---|---|---|
-| **[Ananim NOC](https://github.com/gsouzacloud/ananim-noc-portfolio)** | Portal de operação: disponibilidade com agendas esperadas, correlação de eventos e causa provável, usuários AD e sessões RDP, saúde SAP/HANA, EDR, auditoria da nuvem, proteção contra força bruta RDP, VPN, backups, portal do cliente com MFA. | [Estudo do projeto →](https://github.com/gsouzacloud/ananim-noc-portfolio/blob/main/README.pt-BR.md) |
-| **[AnanimCloudReport](https://github.com/gsouzacloud/ananim-cloud-report-portfolio)** | FinOps e governança cloud: custo por conta/projeto, desperdício ocioso e economia, quotas, vaults de backup, licenciamento/fim de suporte, assistente de custos com IA, snapshots mensais e relatórios com papel timbrado. | [Estudo do projeto →](https://github.com/gsouzacloud/ananim-cloud-report-portfolio/blob/main/README.pt-BR.md) |
-| **[Ananim Shield](https://github.com/gsouzacloud/ananim-application-shield-portfolio)** | WAF e segurança de aplicações: políticas OWASP CRS, regras por país/IP, exceções delimitadas, publicação versionada com rollback, eventos redigidos, alertas e auditoria. | [Estudo do projeto →](https://github.com/gsouzacloud/ananim-application-shield-portfolio/blob/main/README.pt-BR.md) |
+| **[NOC Operation Center](https://github.com/gsouzacloud/noc-operation-center-portfolio)** | Portal de operação: disponibilidade com agendas esperadas, correlação de eventos e causa provável, usuários AD e sessões RDP, saúde SAP/HANA, EDR, auditoria da nuvem, proteção contra força bruta RDP, VPN, backups, portal do cliente com MFA. | [Estudo do projeto →](https://github.com/gsouzacloud/noc-operation-center-portfolio/blob/main/README.pt-BR.md) |
+| **[Cloud Report](https://github.com/gsouzacloud/cloud-report-portfolio)** | FinOps e governança cloud: custo por conta/projeto, desperdício ocioso e economia, quotas, vaults de backup, licenciamento/fim de suporte, assistente de custos com IA, snapshots mensais e relatórios com papel timbrado. | [Estudo do projeto →](https://github.com/gsouzacloud/cloud-report-portfolio/blob/main/README.pt-BR.md) |
+| **[Shield](https://github.com/gsouzacloud/shield-portfolio)** | WAF e segurança de aplicações: políticas OWASP CRS, regras por país/IP, exceções delimitadas, publicação versionada com rollback, eventos redigidos, alertas e auditoria. | [Estudo do projeto →](https://github.com/gsouzacloud/shield-portfolio/blob/main/README.pt-BR.md) |
 
 As imagens são interfaces reais de produção, com nomes de clientes, hosts, IPs, usuários e valores anonimizados. Código operacional, credenciais e dados de clientes ficam privados.
 
