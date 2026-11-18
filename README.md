@@ -8,8 +8,8 @@ Meu portfólio reúne projetos que conectam infraestrutura, operação e seguran
 
 | Projeto | O que resolve | Conheça |
 |---|---|---|
-| **AnanimCloudReport** | Custos e governança Huawei Cloud, conectando faturamento, inventário e operação. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-cloud-report-portfolio) |
-| **Ananim NOC** | Visibilidade operacional por cliente, disponibilidade contextual, serviços e investigação de incidentes. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-noc-portfolio) |
+| **AnanimCloudReport** | FinOps, custos e governança para provedores de cloud, conectando faturamento, inventário, consumo e responsabilidade. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-cloud-report-portfolio) |
+| **Ananim NOC** | Correlação de eventos, visão de usuários e sessões, Active Directory, saúde SAP/HANA, disponibilidade e investigação de incidentes. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-noc-portfolio) |
 | **Ananim Shield** | Gestão de proteção de aplicações, políticas WAF, eventos, publicação controlada e rollback. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-application-shield-portfolio) |
 
 ## Como apresento meu trabalho
