@@ -1,29 +1,43 @@
 # Gustavo Souza
 
-### Cloud • Observabilidade • Segurança de aplicações
+### Cloud · Observability · FinOps · Application Security
 
-Meu portfólio reúne projetos que conectam infraestrutura, operação e segurança a interfaces utilizáveis. O foco é dar contexto aos dados, organizar decisões e tornar mudanças rastreáveis.
-
-## Projetos em destaque
-
-| Projeto | O que resolve | Conheça |
-|---|---|---|
-| **AnanimCloudReport** | FinOps, custos e governança para provedores de cloud, conectando faturamento, inventário, consumo e responsabilidade. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-cloud-report-portfolio) |
-| **Ananim NOC** | Correlação de eventos, visão de usuários e sessões, Active Directory, saúde SAP/HANA, disponibilidade e investigação de incidentes. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-noc-portfolio) |
-| **Ananim Shield** | Gestão de proteção de aplicações, políticas WAF, eventos, publicação controlada e rollback. | [Estudo do projeto](https://github.com/gsouzacloud/ananim-application-shield-portfolio) |
-
-## Como apresento meu trabalho
-
-Cada projeto explica o problema, as capacidades existentes, a arquitetura, os limites e as possibilidades de evolução. As imagens são demonstrativas e usam dados fictícios. Código operacional, credenciais e informações de clientes não fazem parte da vitrine pública.
-
-## Áreas de atuação demonstradas
-
-- Arquitetura e integração de soluções cloud.
-- FinOps, inventário e governança de infraestrutura.
-- Observabilidade, operação e investigação com evidências.
-- Segurança de aplicações e controle de mudanças.
-- Interfaces, automação e documentação técnica.
+[English](#english) · [Português](#português)
 
 ## English
 
-I build projects that connect cloud infrastructure, operations and application security with usable interfaces. Explore the project case studies above for architecture, capabilities, constraints and future directions. Public repositories contain documentation and synthetic visuals; operational source code is maintained privately.
+I build platforms that connect cloud infrastructure, operations and security to interfaces people actually use every day. My focus is giving data context, making decisions explainable and keeping changes traceable.
+
+All three products below are **white-label**: branding, tenants, cloud accounts and integrations are configuration, so each one can be deployed for any company — MSP, cloud reseller or internal IT — and offered as a **multi-tenant SaaS**.
+
+| Project | What it solves | |
+|---|---|---|
+| **[Ananim NOC](https://github.com/gsouzacloud/ananim-noc-portfolio)** | Operations portal: availability with expected schedules, event correlation and probable root cause, AD users and RDP sessions, SAP/HANA health, EDR, cloud audit, RDP brute-force protection, VPN, backups, client portal with MFA. | [Case study →](https://github.com/gsouzacloud/ananim-noc-portfolio) |
+| **[AnanimCloudReport](https://github.com/gsouzacloud/ananim-cloud-report-portfolio)** | Cloud FinOps & governance: cost per account/project, idle waste and savings, quotas, backup vaults, licensing/EOL, AI cost assistant, monthly snapshots and branded reports. | [Case study →](https://github.com/gsouzacloud/ananim-cloud-report-portfolio) |
+| **[Ananim Shield](https://github.com/gsouzacloud/ananim-application-shield-portfolio)** | WAF & application security: OWASP CRS policies, geo/IP rules, scoped exceptions, versioned publishing with rollback, redacted events, alerts and audit. | [Case study →](https://github.com/gsouzacloud/ananim-application-shield-portfolio) |
+
+<table><tr>
+<td width="33%"><a href="https://github.com/gsouzacloud/ananim-noc-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/ananim-noc-portfolio/main/overview.png" alt="Ananim NOC"></a><br><sub>Ananim NOC</sub></td>
+<td width="33%"><a href="https://github.com/gsouzacloud/ananim-cloud-report-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/ananim-cloud-report-portfolio/main/overview.png" alt="AnanimCloudReport"></a><br><sub>AnanimCloudReport</sub></td>
+<td width="33%"><a href="https://github.com/gsouzacloud/ananim-application-shield-portfolio"><img src="https://raw.githubusercontent.com/gsouzacloud/ananim-application-shield-portfolio/main/overview.png" alt="Ananim Shield"></a><br><sub>Ananim Shield</sub></td>
+</tr></table>
+
+Screenshots are real production interfaces with client names, hosts, IPs, users and values anonymized. Operational source code, credentials and client data are kept private.
+
+**What I work with:** cloud architecture and integration (Huawei Cloud and multi-cloud connectors) · observability and monitoring (Zabbix, custom collectors, PowerShell) · FinOps and governance · SAP Business One / HANA environments · Windows Server, Active Directory, RDS · Linux · application security (Nginx, ModSecurity, OWASP CRS) · React, TypeScript, Node.js, PHP, Python.
+
+## Português
+
+Construo plataformas que conectam infraestrutura cloud, operação e segurança a interfaces que as pessoas usam de verdade no dia a dia. Meu foco é dar contexto aos dados, tornar decisões explicáveis e manter mudanças rastreáveis.
+
+Os três produtos abaixo são **white-label**: marca, clientes, contas cloud e integrações são configuração, então cada um pode ser implantado para qualquer empresa — MSP, revenda de cloud ou TI interna — e oferecido como **SaaS multi-tenant**.
+
+| Projeto | O que resolve | |
+|---|---|---|
+| **[Ananim NOC](https://github.com/gsouzacloud/ananim-noc-portfolio)** | Portal de operação: disponibilidade com agendas esperadas, correlação de eventos e causa provável, usuários AD e sessões RDP, saúde SAP/HANA, EDR, auditoria da nuvem, proteção contra força bruta RDP, VPN, backups, portal do cliente com MFA. | [Estudo do projeto →](https://github.com/gsouzacloud/ananim-noc-portfolio/blob/main/README.pt-BR.md) |
+| **[AnanimCloudReport](https://github.com/gsouzacloud/ananim-cloud-report-portfolio)** | FinOps e governança cloud: custo por conta/projeto, desperdício ocioso e economia, quotas, vaults de backup, licenciamento/fim de suporte, assistente de custos com IA, snapshots mensais e relatórios com papel timbrado. | [Estudo do projeto →](https://github.com/gsouzacloud/ananim-cloud-report-portfolio/blob/main/README.pt-BR.md) |
+| **[Ananim Shield](https://github.com/gsouzacloud/ananim-application-shield-portfolio)** | WAF e segurança de aplicações: políticas OWASP CRS, regras por país/IP, exceções delimitadas, publicação versionada com rollback, eventos redigidos, alertas e auditoria. | [Estudo do projeto →](https://github.com/gsouzacloud/ananim-application-shield-portfolio/blob/main/README.pt-BR.md) |
+
+As imagens são interfaces reais de produção, com nomes de clientes, hosts, IPs, usuários e valores anonimizados. Código operacional, credenciais e dados de clientes ficam privados.
+
+**Com o que trabalho:** arquitetura e integração cloud (Huawei Cloud e conectores multi-cloud) · observabilidade e monitoramento (Zabbix, coletores próprios, PowerShell) · FinOps e governança · ambientes SAP Business One / HANA · Windows Server, Active Directory, RDS · Linux · segurança de aplicações (Nginx, ModSecurity, OWASP CRS) · React, TypeScript, Node.js, PHP, Python.
